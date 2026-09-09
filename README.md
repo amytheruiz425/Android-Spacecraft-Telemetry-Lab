@@ -138,4 +138,4 @@ The complete simulation was developed and tested on an Android phone.
 
 Released under the MIT License.
 
-Copyright (c) 2026 Amy Ruiz
+Copyright (c) 2026 Amelia Ruiz 
