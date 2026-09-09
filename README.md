@@ -1,4 +1,6 @@
-# Android Spacecraft Telemetry Lab
+git add LICENSE README.md
+git commit -m "Update author attribution"
+git status# Android Spacecraft Telemetry Lab
 
 An independent spacecraft telemetry simulation built entirely on an Android phone using Termux.
 
